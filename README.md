@@ -28,5 +28,6 @@ final-project-ecommerce/   (added in Week 6)
 
 ## 📌 Progress Log
 - **Day 1** — Encapsulation, Classes & Objects, Inheritance → `BankAccount`, `Product`, `Employee`/`Manager` hierarchy
+- **Day 2** — Interphase, Polymorphism, Method-Overloading, Method-Overriding → `Customer-RegulrCustomer\PremiumCustomer`, `Invoice`, `Employee`/`Manager` hierarchy
 
 *(updated daily)*
