@@ -10,4 +10,9 @@ public class Employee {
     public void showDetails(){
         System.out.println("name: "+name+"\tbaseSalary: "+baseSalary);
     }
+
+    public double calculateBonus() {
+        // TODO Auto-generated method stub
+        throw new UnsupportedOperationException("Unimplemented method 'calculateBonus'");
+    }
 }
